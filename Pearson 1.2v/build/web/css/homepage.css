@@ -1,0 +1,144 @@
+/*!
+ * Start Bootstrap - Shop Item HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+    background-color:#F0F0F0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+/***********************************************************/
+/*              margin of unique             */
+/***********************************************************/
+
+
+.marginedit{
+margin-top:10px;
+margin-right:10px;
+margin-left:10px;
+margin-bottom:10px;
+}
+
+/***********************************************************/
+/*              margin of rows in the claim form                 */
+/***********************************************************/
+
+.marginrow{
+margin-top:10px;
+}
+
+
+/***********************************************************/
+/*             table styles                */
+/***********************************************************/
+ .tableStyle{
+	
+	width: 100%;
+	margin-right:20px;
+	background-color:#FFFFFF;
+	
+}
+
+
+ a {
+		 color: #FFFFFF;
+	 }
+	 a:hover {
+		 color: #FAF2CC;
+	 }
+
+/***********************************************************/
+/*             label style in clim form           */
+/***********************************************************/
+.labelstyle{
+
+color:#333333;
+font-size:15px;
+line-height: 2;
+	
+}
+.labelstyle_1{
+	color:#333333;
+font-size:18px;
+line-height: 2;
+
+}
+/***********************************************************/
+/*             label style in clim form           */
+/***********************************************************/
+.thambaline_inner{
+}	
+.layerfeature{
+	background:rgba(240,240,240,0.3);
+	margin-top:75px;
+}
+/***********************************************************/
+/*             label style in clim form           */
+/***********************************************************/
+.navigation_heading{
+	color:#FFFFFF;
+	font-size:15px;
+	margin-top:18px;
+}	
+/***********************************************************/
+/*            width of button        */
+/***********************************************************/
+.width-btn{
+	width:100%;
+}
+/***********************************************************/
+/*           top margin of edit profile form       */
+/***********************************************************/
+.mar-top{
+ margin-top:20px;
+
+}
+.mar-top_1{
+	margin-top:40px;
+
+}
+
+.dropdown_signup{
+	 display: block;
+  width: 100%;
+  height: 30px;
+  padding: 0px 12px;
+  font-size: 15px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+
+}
